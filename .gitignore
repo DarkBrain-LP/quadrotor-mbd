@@ -1,0 +1,26 @@
+# MATLAB / Simulink
+*.asv
+*.autosave
+slprj/
+*.slxc
+*.mexw64
+*.mexa64
+*.mexmaci64
+codegen/
+
+# Firmware / C build artifacts
+build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE / editor
+.vscode/
+*.swp
+.DS_Store
+
+# STM32CubeIDE
+Debug/
+Release/
