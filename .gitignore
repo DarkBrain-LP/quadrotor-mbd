@@ -1,6 +1,7 @@
 # MATLAB / Simulink
 *.asv
 *.autosave
+*.slx.autosave  
 slprj/
 *.slxc
 *.mexw64
